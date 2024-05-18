@@ -1,4 +1,4 @@
-# OCPP.Core
+# OCPP.Core V1.31 Mar 13
 OCPP.Core is an OCPP ([Open ChargePoint Protocol](https://en.wikipedia.org/wiki/Open_Charge_Point_Protocol)) server written in .NET 8. It includes a management Web-UI for administration of charge points and charge tokens (RFID-Token)
 
 ## Status
